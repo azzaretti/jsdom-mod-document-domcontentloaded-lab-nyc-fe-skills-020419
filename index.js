@@ -1,1 +1,5 @@
-let div = document.getElementById("")
+let div = document.getElementById("hidden-div")
+
+function replaceText(innerDiv){
+  innerDiv.innerHTML()
+}
